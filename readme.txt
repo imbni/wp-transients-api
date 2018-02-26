@@ -1,0 +1,1 @@
+A sample code to show how to use WordPress Transients API
